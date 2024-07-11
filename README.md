@@ -45,7 +45,7 @@ To use the WhatsApp Chat Analyzer, follow these steps:
 
 ## Web Application URL
 
-Access the deployed web application here: https://pritam-whatsappchatanalyzer.streamlit.app/
+Access the deployed web application here: https://pritam-whatsappchatanalyzer.streamlit.app
 
 ## Usage
 
