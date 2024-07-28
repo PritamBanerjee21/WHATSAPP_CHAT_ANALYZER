@@ -3,6 +3,12 @@
 
 This web application, built with Streamlit, provides detailed analysis of any WhatsApp chat. It offers various statistics and visualizations to help users gain insights into their chat activities.
 
+
+## Web Application URL
+
+Access the deployed web application here: https://pritam-whatsappchatanalyzer.streamlit.app (Copy the link and paste it to your browser for perfect result)
+
+
 ## Features
 
 - **Top Statistics**: 
@@ -43,9 +49,6 @@ To use the WhatsApp Chat Analyzer, follow these steps:
    streamlit run app.py
    
 
-## Web Application URL
-
-Access the deployed web application here: https://pritam-whatsappchatanalyzer.streamlit.app (Copy the link and paste it to your browser for perfect result)
 
 ## Usage
 
