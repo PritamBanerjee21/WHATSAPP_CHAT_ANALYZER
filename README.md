@@ -31,7 +31,7 @@ Access the deployed web application here: https://pritam-whatsappchatanalyzer.st
 
 ## Getting Started
 
-To use the WhatsApp Chat Analyzer, follow these steps:
+To use the WhatsApp Chat Analyzer, do follow these steps:
 
 1. Clone the repository:
   
